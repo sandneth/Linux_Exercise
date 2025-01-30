@@ -44,7 +44,7 @@ Screenshots
 ![Image Description](images/A32.png)
 ![Image Description](images/A33.png)
 ![Image Description](images/A34.png)
-<img src="img/A31.png" width="550" height="400"><br />
+
 
 
 
