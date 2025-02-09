@@ -48,3 +48,20 @@ code : sudo apt-mark hold gimp
 code : sudo apt-mark unhold gimp
   Prevents updates for system stability.
       
+Screenshots
+![Image Description](images/S1.png)
+![Image Description](images/S2.png)
+![Image Description](images/S3.png)
+![Image Description](images/S4.png)
+![Image Description](images/S5.png)
+![Image Description](images/S6.png)
+![Image Description](images/S7.png)
+![Image Description](images/S8.png)
+![Image Description](images/S9.png)
+![Image Description](images/S10.png)
+![Image Description](images/S11.png)
+![Image Description](images/S12.png)
+![Image Description](images/S13.png)
+![Image Description](images/S14.png)
+![Image Description](images/S15.png)
+![Image Description](images/Sb.png)
